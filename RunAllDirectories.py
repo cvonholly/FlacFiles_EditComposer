@@ -6,9 +6,11 @@ Steps:
 
 1. You will have to install the mutagen module: https://mutagen.readthedocs.io/en/latest/user/index.html#
 
-2. Edit the directory the code should be apllied to (in "C:yourDirectory/).
+2. Download all 3 python files in the same directory.
 
-3. In the 'editComposerFunction.py', enter the function you want to run.
+3. Edit the directory the code should be apllied to (in "C:yourDirectory/).
+
+4. In the 'editComposerFunction.py', enter the function you want to run.
 
 5. Run this file.  
 """
