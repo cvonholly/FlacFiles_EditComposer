@@ -6,7 +6,7 @@ Important Information:
 
 2. This File is made for '.flac' files. It is currently not optimised for other file formats.
 
-3.  The final line of the script will run the function you want to apply to all the files.
+3.  The final line of the script (line 86) will run the function you want to apply to all the files.
     By default it is set to 'reverseComposerFinal()' which will reverse all Composers name.
     (e.g.: Johann Sebastain Bach --> Bach, Johann Sebastain)
     Other functions will do different actions, here a quick overview:
