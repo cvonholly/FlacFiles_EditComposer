@@ -4,7 +4,7 @@ For Example: Johann Sebastain Bach --> Bach, Johann Sebastain
 
 Steps:
 
-1. You will have to install the mutagen module: https://mutagen.readthedocs.io/en/latest/user/index.html#
+1. You will have to install the mutagen module: https://mutagen.readthedocs.io/en/latest/
 
 2. Download all 3 python files in the same directory.
 
