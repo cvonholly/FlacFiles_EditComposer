@@ -104,4 +104,3 @@ def editTag(x):
             audio.pprint()
             audio.save()
 
-    deleteTag()
