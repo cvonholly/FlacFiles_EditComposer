@@ -14,7 +14,7 @@ Steps:
 """
 
 import os
-from editComposerFunction import editTag
+from editTags import editTag
 
 
 for root, dirs, files in os.walk(r"Z:\24Bit\1. Classical"):      
